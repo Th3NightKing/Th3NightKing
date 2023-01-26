@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## **I’m currently learning the intracacies of this GITHUB Beast we all use.**
-### Glass is always half empty <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F1082552829149889648%2F&psig=AOvVaw36AlZqbCPw191fCJLyEiIx&ust=1674844672230000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKCsl-Hw5fwCFQAAAAAdAAAAABAD.png" 
+### Glass is always half empty <img src="(https://www.nicepng.com/maxp/u2q8t4o0q8i1q8u2/)" 
                                     alt="EvilGrin"
                                     style="float: left; margin-right: 15px;"/> 
 
